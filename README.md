@@ -6,6 +6,6 @@
     + Jupyter-notebook
     + [notes](https://github.com/mingbao2020/Python-by-Examples/blob/master/tools/miniconda.md)
 - Visual Studio Code
-    + [notes]()
+    + [notes](https://github.com/mingbao2020/Python-by-Examples/blob/master/tools/visual-studio-code.md)
     
  

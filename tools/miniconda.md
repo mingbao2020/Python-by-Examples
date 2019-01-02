@@ -9,16 +9,16 @@ Task Category | Command | Comments
 ------------- | --------|---------
 Basic | conda info | Display installation information
 Package Management | conda update conda | Update Conda to the latest version
-   | conda install --help | Display help information for install command
- | conda install A-PACKAGE | Install a package in Conda
- | conda update --help | Display help information for update command
- | conda update A-PACKAGE | Update a package in Conda
+ . | conda install --help | Display help information for install command
+ . | conda install A-PACKAGE | Install a package in Conda
+ . | conda update --help | Display help information for update command
+ . | conda update A-PACKAGE | Update a package in Conda
 Virtual Environments | conda env list | Display current virtual environments, active environment marked with *
- | conda create --name py35 python=3.5 | Create a new virtual environment
- | activate py35 | Switch current conda environment
- | conda list | Display all packages in current environment
+ . | conda create --name py35 python=3.5 | Create a new virtual environment
+ . | activate py35 | Switch current conda environment
+ . | conda list | Display all packages in current environment
 Jupyter | conda install jupyter | Install Jupyter into current environment (if not already installed)
- | jupyter-notebook | Start Jupyter Notebook. (To specify root folder, go to the root folder in windows, before run this command)
+ . | jupyter-notebook | Start Jupyter Notebook. (To specify root folder, go to the root folder in windows, before run this command)
  
 (MiniConda3 4.5.11 windows 64bit)
 

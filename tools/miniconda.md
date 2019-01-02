@@ -9,7 +9,7 @@ Task Category | Command | Comments
 ------------- | --------|---------
 Basic | conda info | Display installation information
 Package Management | conda update conda | Update Conda to the latest version
- | conda install --help | Display help information for install command
+   | conda install --help | Display help information for install command
  | conda install A-PACKAGE | Install a package in Conda
  | conda update --help | Display help information for update command
  | conda update A-PACKAGE | Update a package in Conda

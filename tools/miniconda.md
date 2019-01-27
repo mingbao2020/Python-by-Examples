@@ -19,6 +19,7 @@ Virtual Environments | conda env list | Display current virtual environments, ac
  . | conda list | Display all packages in current environment
 Jupyter | conda install jupyter | Install Jupyter into current environment (if not already installed)
  . | jupyter-notebook | Start Jupyter Notebook. (To specify root folder, go to the root folder in windows, before run this command)
+ . | export jupyter as pdf | conda install nbconvert ; install MikTax in windows 
  
 (MiniConda3 4.5.11 windows 64bit)
 
